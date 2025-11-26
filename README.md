@@ -81,7 +81,3 @@ After execution, the system produces a structured news article that summarizes t
 **LLM (Gemini 2.0 Flash):** Powers natural language understanding and content generation.  
 
 ---
-
-If you want, I can also **draft a visually appealing diagram showing the CrewAI workflow with Researcher and Writer agents** for your README—it would make it more engaging for GitHub visitors.
-
-Do you want me to create that diagram?
