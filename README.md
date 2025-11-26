@@ -73,11 +73,9 @@ After execution, the system produces a structured news article that summarizes t
 
 
 ---
-
 ## Tools
 
 **CrewAI:** Manages multi-agent workflows and orchestration.  
 **SerperDev Tool:** Provides internet search capabilities for research.  
 **LLM (Gemini 2.0 Flash):** Powers natural language understanding and content generation.  
-
 ---
